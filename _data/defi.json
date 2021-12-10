@@ -1,0 +1,320 @@
+{
+  "gain": -843.3751405055596,
+  "date": "12/09/2021",
+  "deposits": [
+    {
+      "date": "07/10/2021",
+      "amount": 200
+    },
+    {
+      "date": "07/23/2021",
+      "amount": 200
+    },
+    {
+      "date": "08/03/2021",
+      "amount": 115
+    },
+    {
+      "date": "08/10/2021",
+      "amount": 110
+    },
+    {
+      "date": "08/19/2021",
+      "amount": 500
+    },
+    {
+      "date": "09/06/2021",
+      "amount": 105
+    },
+    {
+      "date": "09/16/2021",
+      "amount": 578.57
+    },
+    {
+      "date": "10/04/2021",
+      "amount": 100
+    },
+    {
+      "date": "10/28/2021",
+      "amount": 300
+    },
+    {
+      "date": "11/09/2021",
+      "amount": 278.57
+    },
+    {
+      "date": "11/12/2021",
+      "amount": 55.6
+    },
+    {
+      "date": "11/28/2021",
+      "amount": 300
+    },
+    {
+      "date": "11/29/2021",
+      "amount": 200
+    },
+    {
+      "date": "12/01/2021",
+      "amount": 67
+    },
+    {
+      "date": "12/05/2021",
+      "amount": 300
+    },
+    {
+      "date": "12/07/2021",
+      "amount": 100
+    }
+  ],
+  "positions": {
+    "bitcoin": {
+      "name": "Bitcoin",
+      "ticker": "$BTC",
+      "owned": 0.00686719,
+      "price": 48327,
+      "value": 331.87069112999995,
+      "lastUpdated": "12/09/2021"
+    },
+    "cardano": {
+      "name": "Cardano",
+      "ticker": "$ADA",
+      "owned": 622.266634,
+      "price": 1.3,
+      "value": 808.9466242,
+      "lastUpdated": "12/09/2021"
+    },
+    "stellar": {
+      "name": "Stellar",
+      "ticker": "$XML",
+      "owned": 1014.2400205,
+      "price": 0.275692,
+      "value": 279.617859731686,
+      "lastUpdated": "12/09/2021"
+    },
+    "ethereum": {
+      "name": "Ethereum",
+      "ticker": "$ETC",
+      "owned": 0.03504921,
+      "price": 4139.42,
+      "value": 145.08340085819998,
+      "lastUpdated": "12/09/2021"
+    },
+    "hedera-hashgraph": {
+      "name": "Hedera Hashgraph",
+      "ticker": "$HBAR",
+      "owned": 677.9,
+      "price": 0.256833,
+      "value": 174.1070907,
+      "lastUpdated": "12/09/2021"
+    },
+    "solana": {
+      "name": "Solana",
+      "ticker": "$SOL",
+      "owned": 0,
+      "price": 179.18,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "chia": {
+      "name": "Chia",
+      "ticker": "$XCH",
+      "owned": 0.120144282887,
+      "price": 103.3,
+      "value": 12.4109044222271,
+      "lastUpdated": "12/09/2021"
+    },
+    "algorand": {
+      "name": "Algorand",
+      "ticker": "$ALGO",
+      "owned": 212.786703,
+      "price": 1.57,
+      "value": 334.07512371,
+      "lastUpdated": "12/09/2021"
+    },
+    "verasity": {
+      "name": "Verasity",
+      "ticker": "$VRA",
+      "owned": 0,
+      "price": 0.03798071,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "constellation-labs": {
+      "name": "Constellation",
+      "ticker": "$DAG",
+      "owned": 0,
+      "price": 0.148942,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "dogecoin": {
+      "name": "Dogecoin",
+      "ticker": "$DOGE",
+      "owned": 0,
+      "price": 0.170969,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "polkadot": {
+      "name": "Polkadot",
+      "ticker": "$DOT",
+      "owned": 0,
+      "price": 27.11,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "terra-luna": {
+      "name": "Terra",
+      "ticker": "$LUNA",
+      "owned": 0,
+      "price": 68.76,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "quant-network": {
+      "name": "Quant",
+      "ticker": "$QNT",
+      "owned": 0,
+      "price": 165.93,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "vectorspace": {
+      "name": "Vectorspace AI",
+      "ticker": "$VXV",
+      "owned": 0,
+      "price": 4.97,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "arweave": {
+      "name": "Arweave",
+      "ticker": "$AR",
+      "owned": 0,
+      "price": 41.93,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "alchemix": {
+      "name": "Alchemix",
+      "ticker": "$ALCX",
+      "owned": 0,
+      "price": 231.99,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "cosmos": {
+      "name": "Cosmos",
+      "ticker": "$ATOM",
+      "owned": 0,
+      "price": 23,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "thorchain": {
+      "name": "THORChain",
+      "ticker": "$RUNE",
+      "owned": 0,
+      "price": 7.12,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "fetch-ai": {
+      "name": "Fetch.ai",
+      "ticker": "$FET",
+      "owned": 0,
+      "price": 0.537658,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "kadena": {
+      "name": "Kadena",
+      "ticker": "$KDA",
+      "owned": 0,
+      "price": 10.96,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "flow": {
+      "name": "Flow",
+      "ticker": "$FLOW",
+      "owned": 0,
+      "price": 9.44,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "celer-network": {
+      "name": "Celer Network",
+      "ticker": "$CELR",
+      "owned": 0,
+      "price": 0.069236,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "dydx": {
+      "name": "dYdX",
+      "ticker": "$DYDX",
+      "owned": 0,
+      "price": 8.99,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "shiba-inu": {
+      "name": "Shiba Inu",
+      "ticker": "$SHIB",
+      "owned": 3905574.1699665,
+      "price": 0.00003499,
+      "value": 136.65604020712783,
+      "lastUpdated": "12/09/2021"
+    },
+    "basic-attention-token": {
+      "name": "Basic Attention Token",
+      "ticker": "$BAT",
+      "owned": 16.8945,
+      "price": 1.17,
+      "value": 19.766565,
+      "lastUpdated": "12/09/2021"
+    },
+    "iotex": {
+      "name": "IoTeX",
+      "ticker": "$IOTX",
+      "owned": 0,
+      "price": 0.126552,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "oasis-network": {
+      "ticker": "$ROSE",
+      "name": "Oasis Network",
+      "owned": 0,
+      "price": 0.243887,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "fantom": {
+      "ticker": "$FTM",
+      "name": "Fantom",
+      "owned": 0,
+      "price": 1.43,
+      "value": 0,
+      "lastUpdated": "12/09/2021"
+    },
+    "crypto-com-chain": {
+      "ticker": "$CRO",
+      "name": "Crypto.com",
+      "owned": 576.38,
+      "price": 0.579198,
+      "value": 333.83814323999997,
+      "lastUpdated": "12/09/2021"
+    },
+    "decentraland": {
+      "ticker": "$MANA",
+      "name": "Decentraland",
+      "owned": 25.85988974,
+      "price": 3.48,
+      "value": 89.9924162952,
+      "lastUpdated": "12/09/2021"
+    }
+  }
+}
